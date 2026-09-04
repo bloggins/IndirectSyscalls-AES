@@ -4,7 +4,7 @@ https://github.com/Cy83rTR0n/Indirect-Syscalls-Maldev
 
 # Changelog
 
-Added fully contained AES implementation 
+Added fully contained AES implementation & Added a Process Hollowing implementation!
 
 # Usage
 
