@@ -1,0 +1,17 @@
+﻿  Assembling TartarusGate.asm...
+  Source.c
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(77,32): warning C4133: '=': incompatible types - from 'PDWORD' to 'PWORD'
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(48,7): warning C4047: 'initializing': 'PPEB' differs in levels of indirection from 'DWORD64'
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(93,16): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(194,32): warning C4047: '=': 'PVOID' differs in levels of indirection from 'ULONG_PTR'
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(198,20): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(198,88): warning C4047: '!=': 'DWORD' differs in levels of indirection from 'void *'
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(447,2): warning C4013: 'SetSSn' undefined; assuming extern returning int
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(448,15): warning C4013: 'RunSyscall' undefined; assuming extern returning int
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(438,11): warning C4047: 'initializing': 'NTSTATUS' differs in levels of indirection from 'void *'
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-AES\Source.c(441,8): warning C4047: 'initializing': 'DWORD' differs in levels of indirection from 'void *'
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Indirect-Syscalls-AES.vcxproj -> C:\Users\dev\source\IndirectSyscalls\x64\Release\Indirect-Syscalls-AES.exe

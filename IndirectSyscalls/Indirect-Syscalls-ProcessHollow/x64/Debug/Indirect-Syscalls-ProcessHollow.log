@@ -1,0 +1,5 @@
+﻿  Assembling TartarusGate.asm...
+  source.c
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-ProcessHollow\source.c(310,2): warning C4013: 'SetSSn' undefined; assuming extern returning int
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-ProcessHollow\source.c(311,7): warning C4013: 'RunSyscall' undefined; assuming extern returning int
+  Indirect-Syscalls-ProcessHollow.vcxproj -> C:\Users\dev\source\IndirectSyscalls\x64\Debug\Indirect-Syscalls-ProcessHollow.exe

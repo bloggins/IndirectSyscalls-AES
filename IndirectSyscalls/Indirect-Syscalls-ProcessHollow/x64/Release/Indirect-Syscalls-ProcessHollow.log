@@ -1,0 +1,9 @@
+﻿  Assembling TartarusGate.asm...
+  source.c
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-ProcessHollow\source.c(329,3): warning C4013: 'SetSSn' undefined; assuming extern returning int
+C:\Users\dev\source\IndirectSyscalls\Indirect-Syscalls-ProcessHollow\source.c(330,8): warning C4013: 'RunSyscall' undefined; assuming extern returning int
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 19 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Indirect-Syscalls-ProcessHollow.vcxproj -> C:\Users\dev\source\IndirectSyscalls\x64\Release\Indirect-Syscalls-ProcessHollow.exe

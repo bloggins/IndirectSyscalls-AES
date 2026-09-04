@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Indirect-Syscalls-AES/Indirect-Syscalls-AES.vcxproj" />
+  <Project Path="Indirect-Syscalls-ProcessHollow/Indirect-Syscalls-ProcessHollow.vcxproj" />
+</Solution>
